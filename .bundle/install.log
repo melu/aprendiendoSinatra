@@ -1,0 +1,18 @@
+# Logfile created on 2013-12-29 19:54:10 -0500 by logger.rb/31641
+I, [2013-12-29T19:54:10.296496 #379370]  INFO -- : 0:  addressable (2.3.5) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/addressable-2.3.5.gemspec
+I, [2013-12-29T19:54:20.286409 #379370]  INFO -- : 0:  daemons (1.1.9) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/daemons-1.1.9.gemspec
+I, [2013-12-29T19:54:20.287909 #379370]  INFO -- : 0:  data_objects (0.10.13) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/data_objects-0.10.13.gemspec
+I, [2013-12-29T19:54:20.288782 #379370]  INFO -- : 0:  dm-core (1.2.1) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/dm-core-1.2.1.gemspec
+I, [2013-12-29T19:54:20.292353 #379370]  INFO -- : 0:  dm-do-adapter (1.2.0) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/dm-do-adapter-1.2.0.gemspec
+I, [2013-12-29T19:54:20.293234 #379370]  INFO -- : 0:  dm-migrations (1.2.0) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/dm-migrations-1.2.0.gemspec
+I, [2013-12-29T19:54:20.294005 #379370]  INFO -- : 0:  do_sqlite3 (0.10.13) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/do_sqlite3-0.10.13.gemspec
+I, [2013-12-29T19:54:20.294649 #379370]  INFO -- : 0:  dm-sqlite-adapter (1.2.0) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/dm-sqlite-adapter-1.2.0.gemspec
+I, [2013-12-29T19:55:58.897445 #379370]  INFO -- : 0:  eventmachine (1.0.3) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/eventmachine-1.0.3.gemspec
+I, [2013-12-29T19:56:11.304593 #379370]  INFO -- : 0:  rack (1.5.2) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/rack-1.5.2.gemspec
+I, [2013-12-29T19:56:30.321149 #379370]  INFO -- : 0:  sass (3.2.13) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/sass-3.2.13.gemspec
+I, [2013-12-29T19:56:34.496245 #379370]  INFO -- : 0:  sinatra (1.0) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/sinatra-1.0.gemspec
+I, [2013-12-29T19:56:34.497338 #379370]  INFO -- : 0:  temple (0.6.7) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/temple-0.6.7.gemspec
+I, [2013-12-29T19:56:40.094123 #379370]  INFO -- : 0:  tilt (2.0.0) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/tilt-2.0.0.gemspec
+I, [2013-12-29T19:56:40.095096 #379370]  INFO -- : 0:  slim (2.0.2) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/slim-2.0.2.gemspec
+I, [2013-12-29T19:56:51.097706 #379370]  INFO -- : 0:  thin (1.6.1) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/thin-1.6.1.gemspec
+I, [2013-12-29T19:56:51.098878 #379370]  INFO -- : 0:  bundler (1.5.1) from /var/lib/stickshift/52ac931ae0b8cd83b200014b/app-root/data/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
